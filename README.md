@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andygarciach
 - 👀 I’m interested in Data & Analytics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working with Python
 - 💞️ I’m looking to collaborate on AWS Data Analytics Projects
 - 📫 How to reach me https://www.linkedin.com/in/andy-jose-garcia-chavez/
 
